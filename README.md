@@ -1,5 +1,7 @@
 # B站内容发布助手 (bili-content-creation)
 
+<p align="center"><img src="icon.png" width="150" alt="icon"></p>
+
 基于 B站开放平台 API 的自动化内容投稿工具，支持视频上传、封面管理、视频去重、批量发布等功能。
 
 ## 功能
